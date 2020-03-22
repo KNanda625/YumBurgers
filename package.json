@@ -1,0 +1,27 @@
+{
+  "name": "yumburgers",
+  "version": "1.0.0",
+  "description": "burger-database-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KNanda625/YumBurgers.git"
+  },
+  "keywords": [
+    "burger"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KNanda625/YumBurgers/issues"
+  },
+  "homepage": "https://github.com/KNanda625/YumBurgers#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.18.1"
+  }
+}
