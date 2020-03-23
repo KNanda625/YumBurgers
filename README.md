@@ -1,6 +1,6 @@
 # YumBurgers
 
-Fun app using handlebars to add burgers to your order and then virtually eat them.
+App to add burgers to your order and then virtually eat them.
 
 
 ## Getting Started
@@ -12,7 +12,7 @@ Clone repository on local computer using GitBash or Terminal.
 ### Prerequisites
 
 VS Code will be needed to utilize html, css, mysql, handlebars, js files.
-MySQL Qorkbench will be needed to utilize database.
+MySQL Workbench will be needed to utilize database.
 Google Chrome will be needed to view the web page.
 GitBash or Terminal will be needed to push changes to GitHub.
 Heroku will be needed for app deployment.
@@ -27,8 +27,7 @@ Once changes have been made, use GitBash to push to GitHub.
 3) Type [git commit -m "message here"] and hit enter.
 4) type [git push] and hit enter.
 
-Deploy to Heroku:
-
+Repository has been linked to Heroku.
 
 
 ## Built With
