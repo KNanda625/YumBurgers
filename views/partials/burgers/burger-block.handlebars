@@ -1,0 +1,10 @@
+<li>
+    {{!-- DEVOUR BUTTON or PLAIN LIST ITEM --}}
+    {{#if devoured}}
+    You ate the {{burger_name}}
+    {{else}}
+    <button class="devour" data-id="{{id}}">
+        Yum! Eat the {{burger_name}}
+    </button>
+    {{/if}}
+</li>
